@@ -1,0 +1,16 @@
+[general]
+name=WaterNetwork Sync
+qgisMinimumVersion=3.16
+description=Sincronización de redes hidráulicas con backend colaborativo
+version=1.0.0
+author=IngeniowsWare
+email=cperezlantigua@email.com
+about=Plugin para modelado colaborativo de redes de agua. Soporta modo offline, sincronización bidireccional, y simulaciones EPANET en cloud.
+tracker=https://github.com/tuusuario/waternetwork-sync/issues
+repository=https://github.com/tuusuario/waternetwork-sync
+category=Vector
+tags=water,hydraulic,epanet,sync,collaborative,offline
+homepage=https://github.com/tuusuario/waternetwork-sync
+icon=icon.png
+experimental=False
+deprecated=False
