@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+Entidades de dominio puras. Sin dependencias externas.
+
 ***************************************************************************
     domain.py
     ---------------------
@@ -13,10 +15,6 @@
 *   the Ingenioware                                                       *
 *                                                                         *
 ***************************************************************************
-"""
-
-"""
-Entidades de dominio puras. Sin dependencias externas.
 """
 
 from dataclasses import dataclass, field
